@@ -20,6 +20,8 @@ Açıklama
 
 2.Özel etkinlikler kısımında ürüne gözat butonuna tıklayınca sayfa hata veriyor.
 
+3.Sayfanın alt kısımında adres yazmıyor.
+
 Adımlar
 
 1-https://yazilimtestegitimi.com/webtestalistirmasi/ sitesine giriş yapın,

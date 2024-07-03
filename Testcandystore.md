@@ -33,3 +33,4 @@ Beklenen sonuçlar
 
 1-Ürüne gözat sayfası düzeltilmeli ve tıklanınca ürünler çıkmalı,
 2-Sayfanın altında yer alan adres ksımında kafenin adresi yazılmalı.
+3-Sayfa karakterleri daha okunaklı olmalı.

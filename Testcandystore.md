@@ -27,7 +27,7 @@ Adımlar
 1-https://yazilimtestegitimi.com/webtestalistirmasi/ sitesine giriş yapın,
 2-Üst tarafta yer alan menüden test alıştırmaları kısımına; Test alıştırma yerine tıklayın,
 3-Özel etkinlikler ürüne gözat sayfasına tıklayın,
-4-Sayfanın altında yer alan adres kısımında adres yazılmamış.
+4-Sayfanın altında yer alan adres kısımına bakın.
 
 Beklenen sonuçlar
 
